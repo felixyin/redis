@@ -1,11 +1,14 @@
 # redis
 
+redis、jredis、redis 集群搭建、springboot 集成 redis
+
 ## 环境
 
 - docker
 - java8
 - jedis
-- spring-initializr
+- spring-boot
+- spring-initializr (用法见 gitlab 仓库： http://qtrj.i234.me:30000/nonsense/spring-initializr.git )
 
 ## 启动
 
