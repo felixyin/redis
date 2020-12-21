@@ -49,3 +49,5 @@ docker-compose down
 
 关闭并删除数据卷：
 docker-compose down --volumes
+
+测试项目：cluster
